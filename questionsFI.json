@@ -1,0 +1,118 @@
+[
+    {
+        "q" : "Heräät asunnostasi Kortepohjan ylioppilaskylästä. Kuka olikaan vuokranantajasi?",
+        "ans" : ["Nuotio","Myrskylyhty","Soihtu","Taskulamppu"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/kp.jpg",
+        "lImgSrc" : "img/locations/lowQ/kp.jpg",
+        "correctText" : "Oikein! JYYn liiketoiminnan nimi on Soihtu. JYYn jäsenet asuvat Kortepohjan ylioppilaskylässä sekä Soihtu Vehkakujan kohteissa edullisesti.",
+        "event": false
+    },{
+        "q" : "Avaat koneen ja liityt etäluennolle. Huomaat, ettei kaikkia opiskelijoita kohdella kurssilla yhdenvertaisesti. Kehen otat yhteyttä?",
+        "ans" : ["Edustajiston puheenjohtajaan","Yliopiston rehtoriin","YTHS","JYYn sosiaalipoliittiseen asiantuntijaan"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/atkL.jpg",
+        "lImgSrc" : "img/locations/lowQ/atkL.jpg",
+        "correctText" : "Oikein! JYYn sosiaalipoliittinen asiantuntija toimii linkkinä opiskelijoiden ja yliopiston välisessä keskustelussa – oli kyse sitten yksittäisestä ongelmasta tai yliopiston kehittämisestä. Lisäksi JYYn sosiaalipoliittinen sektori tarjoaa henkilökohtaista opastusta liittyen asumiseen, toimeentuloon, terveyteen ja tasa-arvoon. Yhdenvertaisuuskysymyksissä auttavat myös mm. laitoksesi hyvikset sekä Student Life.",
+        "event": false
+    },{
+        "q" : "Kurssikaverisi puhuu sinulle tavalla, joka saa sinut tuntemaan olosi epämukavaksi. Kehen otat yhtyettä?",
+        "ans" : ["Ainejärjestöösi","JYYn häirintäyhdyshenkilöihin","Yliopiston digipalveluihin","Jylkkäriin"],
+        "correct" : 2,
+        "imgSrc" : "img/locations/zoom.jpg",
+        "lImgSrc" : "img/locations/lowQ/zoom.jpg",
+        "correctText" : "Oikein! JYY:ssä toimii kaksi häirintäyhdyshenkilöä. Jos koet joutuneesi häirinnän, ahdistelun, kiusaaminen, syrjinnän tai muun epätasa-arvoisen kohtelun kohteeksi, voit ottaa heihin yhteyttä ja pyytää neuvoja ja apua asian selvittämiseen. Keskustelut yhdyshenkilöiden kanssa ovat ehdottoman luottamuksellisia, eikä minkäänlaisiin toimenpiteisiin ryhdytä ilman asianomaisen lupaa. Halutessasi voit kääntyä myös tiedekuntasi dekaanin, hallintoviraston henkilöstöpäällikön tai YTHS:n puoleen.",
+        "event": false
+    },{
+        "q" : "Olet jo muutamaan kertaan pyytänyt eräältä suoritetulta kurssilta suoritusmerkintää, mutta et ole sitä vieläkään saanut. Kehen otat yhteyttä?",
+        "ans" : ["Koulutuspoliittiseen asiantuntijaan","Koulutussuunnittelijaan","Dekaaniin","Vahtimestariin"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/sali.jpg",
+        "lImgSrc" : "img/locations/lowQ/sali.jpg",
+        "correctText" : "Oikein! Opintoihin liittyvissä ongelmissa opiskelijat voivat kääntyä JYYn korkeakoulupoliittisen asiantuntijan puoleen. Hän neuvoo tilanteissa, joissa opiskelijan oikeudet ovat uhattuina, ja voi tarvittaessa ottaa opiskelijan puolesta yhteyttä yliopiston henkilökuntaan tai hallintoon.",
+        "event": false
+    },{
+        "q" : "Suuntaat kohti kampusta. Saapuessasi kampukselle mietit, että on se yliopisto vaan aika iso organisaatio. Kuka siellä pitää opiskelijoiden ääntä kuuluvilla?",
+        "ans" : ["Kela","Tutkijat","JYY","YTHS"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/ylistönsilta.jpg",
+        "lImgSrc" : "img/locations/lowQ/ylistönsilta.jpg",
+        "correctText" : "Oikein! Kaikki yliopistoyhteisössä tahtovat totta kai opiskelijoiden parasta, mutta JYY osallistuu yliopiston päätöksentekoon nimenomaan opiskelijoiden edunvalvojana. Hallinnon opiskelijaedustajien valinta, JYYn hallituksen rehtoritapaamiset sekä edustus yliopiston erilaisissa työryhmissä ovat kaikki työkaluja opiskelijoiden edun valvomiseksi.",
+        "event": true,
+        "location" : 21
+    },{
+        "q" : "Vilkaiset kännykkää ja huomaat, että tilille on kilahtanut ensimmäinen opintotuki. Lähdet juhlistamaan sitä 2,70 € maksavalla opiskelija-aterialla. Ketä saat kiittää näistä tuista?",
+        "ans" : ["Ylioppilasliike","Sosiaalinen media","Kela","Arvonlisävero"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/crakennus.jpg",
+        "lImgSrc" : "img/locations/lowQ/crakennus.jpg",
+        "correctText" : "Oikein! Suomen ylioppilaskuntien liitolla (SYL) oli sormensa pelissä, kun vuonna 1972 päätettiin ryhtyä maksamaan opiskelijoille opintorahaa ja 80-luvun alussa ateriatukea. Ylioppilasliike vaikuttaa kansallisessa politikassa edelleen pyrkien saavuttamaan uusia etuja sekä ylläpitämään jo saatuja voittoja.",
+        "event": false
+    },{
+        "q" : "Toteat, että tahdot syödä tänään itse omistamassasi ravintolassa. Minne suuntaat?",
+        "ans" : ["Valotalo","Kultahelmi","Ikipuu","Ilokivi"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/ilokivi.jpg",
+        "lImgSrc" : "img/locations/lowQ/ilokivi.jpg",
+        "correctText" : "Oikein! Opiskelijat omistavat JYYn, ja JYY omistaa Ilokiven, Soihdun ja Rentukka-talon. Ilokivi tarjoaa päivittäin monia ateriavaihtoehtoja eri ruokavaliot huomioiden. ",
+        "event": false
+    },{
+        "q" : "Syödessäsi mietit, mitä ajankohtaista JYYssä tapahtuu. Mistä löydät tietoa?",
+        "ans" : ["Jylkkäri","Facebook","Instagram","Twitter"],
+        "correct" : -1,
+        "imgSrc" : "img/locations/ruoka.jpg",
+        "lImgSrc" : "img/locations/lowQ/ruoka.jpg",
+        "correctText" : "Kaikki oikein! Jylkkärin voit hakea kampukselta, tilata kotiisi tai lukea netissä. Instassa JYYtä voi seurata @jyyinstaa, Twitterissä @jyytwiittaa ja Facebookissa nimellä “Jyväskylän yliopiston ylioppilaskunta.”",
+        "event": true,
+        "location" : 24
+    },{
+        "q" : "Syömisen jälkeen iskee aivan hirveä jano. Minne menet?",
+        "ans" : ["Juoma-automaatille ","Köyhälammelle","Venuelle","Kemian laitokselle"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/venue.jpg",
+        "lImgSrc" : "img/locations/lowQ/venue.jpg",
+        "correctText" : "Oikein! Venue on Ilokiven alakerrasta löytyvä olohuone, jossa voi hengailla, opiskella ja herkutella.  Venuella järjestetään monenlaista kulttuuritoimintaa, kuten elokuvailtoja, taidenäyttelyitä ja sisäfestivaali Jyrock. Venuella on myös anniskeluoikeudet.",
+        "event": false
+    },{
+        "q" : "Lähdet kavereiden kanssa piknikille Kirkkopuistoon. Kaupungintaloa katsellessa mietit, että kuka oikein tuo yliopisto-opiskelijoiden näkökulmaa kaupungin päätöksentekoon?",
+        "ans" : ["Lautakunta","Ylioppilaskunta","Seurakunta","Luomakunta"],
+        "correct" : 2,
+        "imgSrc" : "img/locations/kaupungintalo.jpg",
+        "lImgSrc" : "img/locations/lowQ/kaupungintalo.jpg",
+        "correctText" : "Oikein! JYY seuraa aktiivisesti Jyväskylän kaupungin päätöksentekoa ja ottaa kantaa opiskelijoita koskettaviin aiheisiin, kuten vaikkapa kaavoitukseen tai julkiseen liikenteeseen. Ole JYYhyn yhteydessä, mikäli huomaat kaupungin palveluissa kehityskohteita, joihin ylioppilaskunta voisi ottaa kantaa.",
+        "event": true,
+        "location" : 3
+    },{
+        "q" : "Piknikillä kuulet kavereiltasi, että aine- tai harrastejärjestösi saa jostain rahaa. Kuka sitä antaa?",
+        "ans" : ["JES","JYU","JKL","JYY"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/kirkko.jpg",
+        "lImgSrc" : "img/locations/lowQ/kirkko.jpg",
+        "correctText" : "Oikein! Ylioppilaskunta jakaa joka vuosi aine- ja harrastejärjestöille taloudellista toiminta-avustusta sen mukaan, kuinka järjestöt ovat toimineet. Tämän lisäksi JYY auttaa järjestöjä myös arjen ongelmissa pitkin vuotta, sekä kouluttaa järjestötoimijoita.",
+        "event": false
+    },{
+        "q" : "Sovitte, että lähdette huomenna retkelle Laajavuoreen ja tajuatte tarvitsevanne kirveen. Mistä sellaisen voi lainata?",
+        "ans" : ["Jäsenpalvelu- ja järjestösihteeri","Rehtori","Hypermarketti","Metsähallitus"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/kirves.jpg",
+        "lImgSrc" : "img/locations/lowQ/kirves.jpg",
+        "correctText" : "Oikein! Jäsenpalvelu- ja järjestösihteeri työskentelee JYYn toimistolla Ilokivessä, ja häneltä voi lainata kirveen lisäksi vaikkapa lautapelejä, kuormapyörän tai megafonin. Kaikki lainatavarat on listattu JYYn nettisivuille. Rehtorilta kannattaa tiedustella pikemmin fileerausveistä! ",
+        "event": false
+    },{
+        "q" : "Päivän päätteeksi palaat kotiin ja tuumit, että ylioppilaskunnan toimintaan osallistuminen kiinnostaa. Mikä olisi helpoin tapa tähän?",
+        "ans" : ["Haen JYYlle töihin","Olen ehdolla hallituksen puheenjohtajaksi","Osallistun valiokunnan toimintaan","Pestaudun sivariksi Jylkkäriin"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/nuijat.jpg",
+        "lImgSrc" : "img/locations/lowQ/nuijat.jpg",
+        "correctText" : "Oikein! JYYn valiokunnat ovat kaikille opiskelijoille avoimia ryhmiä, jotka järjestävät toimintaa ja tarjoavat mahdollisuuden keskustella valiokunnan teemojen ajankohtaisista kuulumisista. Tule rohkeasti mukaan!",
+        "event": false
+    },{
+        "q" : "Tuumit, että oikeastaan asiat voisivat olla JYYssä paremminkin. Mihin haet syksyllä 2021? 😉",
+        "ans" : ["EDUSTAJISTO","EDUSTAJISTO","EDUSTAJISTO","EDUSTAJISTO"],
+        "correct" : -1,
+        "imgSrc" : "img/locations/JYY.jpg",
+        "lImgSrc" : "img/locations/lowQ/JYY.jpg",
+        "correctText" : "Oikein! JYYn edustajistossa pääset vaikuttamaan JYYn päätöksentekoon. Aiheet ovat laidasta laitaan aina miljoonien päätöksistä  Edarin toiminta on virallista, mutta samalla se on myös hyvä paikka oppia päätöksenteosta, kokouskäytänteistä ja vaikuttamisesta matalalla kynnyksellä.  Vaalit tulevat tänä syksynä ja kaikki ovat tervetulleita ehdokkaiksi. Lisätietoja: <a target='_blank' href='https://jyy.fi/edustajistovaalit/'>https://jyy.fi/edustajistovaalit/</a>",
+        "event": false
+    }
+]

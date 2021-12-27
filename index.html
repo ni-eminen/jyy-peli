@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="quiz.css">
+    <link rel="shortcut icon" type="image/jpg" href="img/smallLogo.png"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Quiz</title>
+</head>
+<div id="topNav" class="topnav">
+    <a href="#" onclick="retry()">Retry</a>
+    <a href="#" onclick="showMap()">Show map</a>
+    
+  </div>
+<body>
+    <div id="quizWrapper">
+        <div class="quizElement" id="timer">
+            <div class="timebar" id="timeBar">
+                <div class="timebar" id="timeIncrementBar"></div>
+            </div>
+        </div>
+        <div class="jyyTheme" id="quizMain">
+            <a style="font-size: .9em; margin-left: 5px; white-space: nowrap;" onclick="changeLanguage()" id="changeLanguageButton">In English</a>
+            <img id="displayImage" src="img/happy.jpg" alt="Image of a happy person">
+            <div id="overlayWrap">
+                <div id="overlay"></div>
+                <div id="performanceIconWrap">
+                    <div id="correctTextWrap">
+                        <p id="correctText"></p>
+                    </div>
+                    <div onclick="nextQuestion()"class="button" id="nextQuestionButton">
+                        <p id="nextQuestionText">Seuraava kysymys</p>
+                    </div>
+                    <img id="performanceIcon" src="" alt="Smiley face depending on performance">
+                    <p id="performance"></p>
+                    <div onclick="retry()"class="button" id="retryButton">
+                        <p>Uudestaan :-)</p>
+                    </div>
+                </div>
+            </div>
+
+            <div onclick="intro()" class="button" id="startButton">
+                <a id="startGameButton">
+                    Aloita peli!
+                </a>
+            </div>
+            <div style="display: none;" id="question">
+                <p>
+                </p>
+            </div>
+            <div style="display: none;" id="choices" class="quizElement">
+
+            </div>
+        </div>
+        <div style="display: none;" id="progressBar">
+            
+        </div>
+    </div>
+    <div id="textWindow" class="jyyTheme">
+        <div id="textWindowContentDiv" style="transition-duration: .3s;">
+            <h2 id="textWindowHeader"></h2>
+            <p id="textWindowText"></p>
+            <img src="img/mapExample.JPG" id="mapExampleImage" style="display: none; margin: 10px auto; max-width: 95%;" src="mapExample" alt="Esimerkkikuva kartasta, jossa näkyy punainen X, sekä pelaaja.">
+            <div onclick="nextIntroSlide()" class="button" id="startButton">
+                <a id="nextSlideButton">
+                    Seuraava
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="mapDiv">
+        <div id="mapWrapperDiv">
+            <canvas width="2000px" height="3000" img="img/map.jpg" id="mapImage"></canvas>
+        </div>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+</html>

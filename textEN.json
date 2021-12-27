@@ -1,0 +1,14 @@
+{
+    "start" : "Begin!",
+    "welcome" : "Welcome!",
+    "welcomeText" : "Welcome to JYY's super mini info extravaganza! Here, you will experience the first day of uni as, well, yourself, a total uni-life-newbie... A typical day consists of many exciting choices and questions alike. Now, let's take them head on!",
+    "next" : "Next",
+    "nextQuestion" : "Next question",
+    "map" : "Map",
+    "mapText" : "You can move to the next event location, marked by a red X, by clicking your character to it through the map of Jyväskylä.",
+    "finishedText" : "Congratulations! You have now completed your first day in the life of a JYU student. Go on now! Great adventures lie ahead...",
+    "changeLanguage" : "Suomeksi",
+    "scores" : "Scores!",
+    "congrats" : "Congratz :D",
+    "retry" : "Retry :-)"
+}

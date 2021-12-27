@@ -1,0 +1,16 @@
+{
+    "start" : "Aloita peli!",
+    "welcome" : "Tervetuloa!",
+    "welcomeText" : "Tervetuloa JYYn supermini-infopläjäys-peliin! Pelaat aloittelevana fuksipallerona läpi tyypillisen opiskelijan päivän, jossa kohtaat jos jonkinlaisia kysymysmerkkejä! Onnea matkaan!",
+    "next" : "Seuraava",
+    "nextQuestion" : "Seuraava kysymys",
+    "map" : "Kartta",
+    "mapText" : "Voit liikkua painamalla eri lokaatioita Jyväskylän kartalla. Seuraava tapahtuma on aina punaisen ruksin osoittamassa paikassa!",
+    "finishedText" : "Onneksi olkoon! Ensimmäinen päiväsi opiskelijan elämässä on nyt paketissa, mitähän muuta vuosi voi tuoda tullessaan...",
+    "changeLanguage" : "In English",
+    "scores" : "Näytö tulokset!" ,
+    "congrats" : "Congratz :D",
+    "retry" : "Uudestaan :-)"
+
+}
+

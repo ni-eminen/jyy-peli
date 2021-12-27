@@ -1,0 +1,118 @@
+[
+    {
+        "q" : "You wake up in your apartment in the Kortepohja Student Village. What’s the name of your land lord again?",
+        "ans" : ["Lantern","Flashlight","Soihtu","Fire"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/kp.jpg",
+        "lImgSrc" : "img/locations/lowQ/kp.jpg",
+        "correctText" : "Correct! Soihtu means \"torch\" in Finnish and is the name of JYY’s business unit. Soihtu offers high quality apartments with sensible prices at Kortepohja Student Village and Soihtu Vehkakuja.",
+        "event": false
+    },{
+        "q" : "You open your laptop and join a Zoom class. You notice that not all students are treated in an equal way. Who can you contact?",
+        "ans" : ["The chair of the council of representatives","The rector of JYU","FSHS","JYY's specialist in social affairs"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/atkL.jpg",
+        "lImgSrc" : "img/locations/lowQ/atkL.jpg",
+        "correctText" : "Correct! JYY’s specialist in social affairs is a link between students and the university in any discussion that concerns students’ well-being. You can also get personal support in housing, income, health and equality.\nThe Goodies and the Student Life can also help you with well-being related questions.",
+        "event": false
+    },{
+        "q" : "Your classmate talks to you in a way that makes you feel unconfortable. Who can you contact?",
+        "ans" : ["Your subject association","Jyy’s harassment contact persons","University digital services","Jylkkäri newspaper"],
+        "correct" : 2,
+        "imgSrc" : "img/locations/zoom.jpg",
+        "lImgSrc" : "img/locations/lowQ/zoom.jpg",
+        "correctText" : "Correct! There are two trained harassment contact persons in JYY. You can contact these persons and ask for advice or assistance in any experiences of harassment, bullying or discrimination.\nAll discussion with the Harassment Contact Persons are strictly confidential. No action can be taken without the consent of the student in question.\nIf you want, you can also turn to your faculty’s dean, the HR manager at the university administration or FSHS.",
+        "event": false
+    },{
+        "q" : "You have repeatedly asked for credits from a class that you have passed but you still haven’t got them. Who should you contact?",
+        "ans" : ["JYY’s specialist in academic affairs","Education coordinator ","Dean","Janitor"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/sali.jpg",
+        "lImgSrc" : "img/locations/lowQ/sali.jpg",
+        "correctText" : "Correct! Students with study-related problems can turn to JYY’s specialist in academic affairs. They can give advice on situations where the student’s rights are threatened and contact the university staff or administration whenever needed.",
+        "event": false
+    },{
+        "q" : "You head towards the campus. On your way you think of how big of an organisation JYU actually is. Who makes sure that the students’ voice gets heard in it?",
+        "ans" : ["Kela","Researchers","JYY","FSHS"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/ylistönsilta.jpg",
+        "lImgSrc" : "img/locations/lowQ/ylistönsilta.jpg",
+        "correctText" : "Correct! Obviously, everyone in the university community hopes for the best for students, but JYY has a special role as the students’ advocat. Some of JYY’s tools of efficiant advocay are selecting student representatives for the uni administration, having meetings between the headmaster of JYU and JYY’s board of executives and attending the uni’s working groups.",
+        "event": true,
+        "location" : 21
+    },{
+        "q" : "You take a look at your phone and notice that you have received your first student allowance. You decide to celebrate it with a student meal that costs 2.70 euros. Who can you thank for this financial support?",
+        "ans" : ["The student movement","Social media","Kela","Value added tax"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/crakennus.jpg",
+        "lImgSrc" : "img/locations/lowQ/crakennus.jpg",
+        "correctText" : "Correct! The National Union of University Students in Finland (SYL) had a big influence when the Finnish decision makers decided to start paying student allowance in 1972 and student meal allowance in the early 80s. Today, SYL still advocates for students and trys to reach new benefits for students as well as maintain the ones we have already reached.",
+        "event": false
+    },{
+        "q" : "You decide to eat in your own restaurant. Where do you head to?",
+        "ans" : ["Lighthouse","Golden pearl","Sad tree","Ilokivi"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/ilokivi.jpg",
+        "lImgSrc" : "img/locations/lowQ/ilokivi.jpg",
+        "correctText" : "Correct! All members own JYY and JYY owns the restaurant Ilokivi (which means “Gladstone” in English), the business unit Soihtu and the Rentukka house. Restaurant Ilokivi offers delicious student priced meals for people with different diets.",
+        "event": false
+    },{
+        "q" : "While enjoying your meal, you wonder where you could get the latest JYY news. Where’s that?",
+        "ans" : ["Jylkkäri newspaper","Facebook","Instagram","Twitter"],
+        "correct" : -1,
+        "imgSrc" : "img/locations/ruoka.jpg",
+        "lImgSrc" : "img/locations/lowQ/ruoka.jpg",
+        "correctText" : "Anything goes! You can pick the latest issue of Jylkkäri at the campus, order it to your home or read it online. You can also follow JYY on Instagram @jyyinstaa, Twitter @jyytwiittaa or Facebook under the name “Jyväskylän yliopiston ylioppilaskunta”. You can also find the latest news at jyy.fi/en.",
+        "event": true,
+        "location" : 24
+    },{
+        "q" : "After lunch you find yourself very thirsty. Where will you go? ",
+        "ans" : ["Vending machine","The pond Köyhälampi","Venue","Chemistry class"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/venue.jpg",
+        "lImgSrc" : "img/locations/lowQ/venue.jpg",
+        "correctText" : "Correct! Venue can be found at the basement of Ilokivi and it’s a lounge where students can hang out, study or have a delicious snack. There are also all sorts of cultural events at the Venue such as movie nights, art galleries and the music festival Jyrock. Venue also has liquor licenses.",
+        "event": false
+    },{
+        "q" : "You go on a picnic with your friends at Kirkkopuisto. You look at the city hall and wonder who makes sure that students’ voice isheard in Jyväskylä’s decision making?",
+        "ans" : ["Workers’ union ","The Student union","European union","Union Berlin"],
+        "correct" : 2,
+        "imgSrc" : "img/locations/kaupungintalo.jpg",
+        "lImgSrc" : "img/locations/lowQ/kaupungintalo.jpg",
+        "correctText" : "Correct! JYY keeps an eye on Jyväskylä’s decision making and takes a stand on student related issues such as town planning or public transport. You can always contact JYY if you notice something that should be improved in Jyväskylä.",
+        "event": true,
+        "location" : 3
+    },{
+        "q" : "You learn from your friends that student and hobby associations get grants to fund their operations. Who gives the money?",
+        "ans" : ["JES","JYU","Jyväskylä","JYY"],
+        "correct" : 4,
+        "imgSrc" : "img/locations/kirkko.jpg",
+        "lImgSrc" : "img/locations/lowQ/kirkko.jpg",
+        "correctText" : "Correct! The student union provides associations financial support every year. JYY also supports associations by providing personal guidance and training active members.",
+        "event": false
+    },{
+        "q" : "You decide to take a trip to Laajavuori next weekend and realise you need an axe. Where can you borrow one?",
+        "ans" : ["JYY’s member services secretary","The rector of JYU","Supermarket","Pharmacy"],
+        "correct" : 1,
+        "imgSrc" : "img/locations/kirves.jpg",
+        "lImgSrc" : "img/locations/lowQ/kirves.jpg",
+        "correctText" : "Correct! The student union provides associations financial support every year. JYY also supports associations by providing personal guidance and training active members.",
+        "event": false
+    },{
+        "q" : "At the end of the day you return home and realise that you might enjoy participating in JYY’s actions. What is one of the easiest ways to do it?",
+        "ans" : ["Apply for a job at JYY","Run for the chair of the board of executives","Take part in a subcommittee","Complete your non-military service in Jylkkäri"],
+        "correct" : 3,
+        "imgSrc" : "img/locations/nuijat.jpg",
+        "lImgSrc" : "img/locations/lowQ/nuijat.jpg",
+        "correctText" : "Correct! JYY’s subcommittees are groups that are open for all students and offer a chance to discuss current themes in the subcommittee’s field. Come and join one!",
+        "event": false
+    },{
+        "q" : "You come up with many things that could be better in JYY. What do you run for in fall 2021? 😉",
+        "ans" : ["Council","Council","Council","Council"],
+        "correct" : -1,
+        "imgSrc" : "img/locations/JYY.jpg",
+        "lImgSrc" : "img/locations/lowQ/JYY.jpg",
+        "correctText" : "Correct! In JYY’s council of representatives you will have a say in JYY’s decision making. You may get to decide how JYY’s 80 million fortune is managed or what kind of policies JYY has.\nThe council or representatives is an official and formal institution but it’s also a great chance to learn more about decision making, meeting practices and influencing.\nAll JYY members can run for a place in the council. More info here: <a target='_blank' href='https://jyy.fi/edustajistovaalit/'>https://jyy.fi/edustajistovaalit</a>",
+        "event": false
+    }
+]
